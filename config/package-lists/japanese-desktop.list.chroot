@@ -4,7 +4,6 @@ task-cinnamon-desktop
 build-essential
 openssh-server
 openssh-client
-java-package
 nodejs
 npm
 procps
