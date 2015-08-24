@@ -8,3 +8,4 @@ conf:
 	lb config --mirror-chroot-security "http://security.debian.org"
 	lb config --mirror-binary-security "http://security.debian.org"
 	lb config --mirror-debian-installer "http://ftp.jp.debian.org/debian/"
+	cp -r /boot/* chroot/boot/

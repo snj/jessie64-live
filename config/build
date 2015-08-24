@@ -2,7 +2,7 @@
 Architecture: amd64
 Archive-Areas: main non-free contrib
 Distribution: jessie
-Mirror-Bootstrap: http://ftp.jp.debian.org/debian/
+Mirror-Bootstrap: http://ftp.riken.jp/Linux/debian/debian/
 
 [FIXME]
 Configuration-Version: 4.0.3
