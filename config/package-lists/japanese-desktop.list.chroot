@@ -1,6 +1,6 @@
 task-japanese
 task-japanese-desktop
-task-cinnamon-desktop
+task-gnome-desktop
 build-essential
 openssh-server
 openssh-client
@@ -15,7 +15,9 @@ python-dev
 python-setuptools
 python-pip
 im-config
-ibus-mozc
+uim
+mozc-server
+uim-mozc
 fonts-ipafont
 manpages-ja
 manpages-ja-dev
@@ -34,4 +36,5 @@ wireshark
 lsof
 ntpdate
 ca-certificates
+chromium
 

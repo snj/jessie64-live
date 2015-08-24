@@ -1,2 +1,4 @@
 #!/bin/bash
 
+im-config -n uim
+
