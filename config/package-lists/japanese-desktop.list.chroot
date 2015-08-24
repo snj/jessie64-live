@@ -1,6 +1,6 @@
 task-japanese
 task-japanese-desktop
-task-gnome-desktop
+task-cinnamon-desktop
 build-essential
 openssh-server
 openssh-client
@@ -37,4 +37,5 @@ lsof
 ntpdate
 ca-certificates
 chromium
-
+wireless-tools
+wpasupplicant
