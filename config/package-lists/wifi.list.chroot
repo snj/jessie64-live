@@ -1,3 +1,5 @@
+wpasupplicant
+wireless-tools
 rfkill
 hostapd
 firmware-crystalhd
@@ -20,5 +22,5 @@ firmware-ralink
 firmware-realtek
 firmware-samsung
 firmware-ti-connectivity
-
+broadcom-sta-dkms
 

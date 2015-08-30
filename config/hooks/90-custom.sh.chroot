@@ -3,3 +3,8 @@
 im-config -n uim
 npm install -g bower grunt-cli ionic 
 
+modprobe -r b44 b43 b43legacy ssb brcmsmac
+modprobe wl
+
+echo "wl" >> /etc/modules
+

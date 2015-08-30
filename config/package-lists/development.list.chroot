@@ -1,0 +1,9 @@
+build-essential
+nodejs
+npm
+git
+python
+python-dev
+python-setuptools
+python-pip
+ruby-compass
