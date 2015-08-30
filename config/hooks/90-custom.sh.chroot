@@ -1,4 +1,5 @@
 #!/bin/bash
 
 im-config -n uim
+npm install -g bower grunt-cli ionic 
 
