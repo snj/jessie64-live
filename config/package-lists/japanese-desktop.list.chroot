@@ -1,6 +1,8 @@
 task-japanese
 task-japanese-desktop
 task-cinnamon-desktop
+manpages-ja
+manpages-ja-dev
 openssh-server
 openssh-client
 procps
@@ -12,8 +14,6 @@ uim
 mozc-server
 uim-mozc
 fonts-ipafont
-manpages-ja
-manpages-ja-dev
 libreoffice
 nkf
 lv
@@ -22,9 +22,6 @@ curl
 whois
 unzip
 bzip2
-tcpdump
-nmap
-wireshark
 lsof
 ntpdate
 ca-certificates
@@ -32,4 +29,5 @@ chromium
 xorg-driver-synaptics
 bluetooth
 gnome-bluetooth
+zsh
 

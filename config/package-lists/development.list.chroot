@@ -6,4 +6,6 @@ python
 python-dev
 python-setuptools
 python-pip
+python-libxml2
 ruby-compass
+imagemagick
