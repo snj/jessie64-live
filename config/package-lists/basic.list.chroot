@@ -1,0 +1,15 @@
+openssh-server
+openssh-client
+procps
+libffi-dev
+gettext
+wget
+curl
+whois
+unzip
+bzip2
+lsof
+ntpdate
+ca-certificates
+zsh
+
