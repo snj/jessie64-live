@@ -10,3 +10,14 @@ conf:
 	 --mirror-chroot-security "http://security.debian.org" \
 	 --mirror-binary-security "http://security.debian.org" \
 	 --mirror-debian-installer "http://ftp.riken.jp/Linux/debian/debian/"
+
+clean:
+	lb clean --all
+
+build:
+	lb build
+
+burn:
+	./burn.sh
+
+

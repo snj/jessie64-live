@@ -10,5 +10,3 @@ echo "wl" >> /etc/modules
 
 update-alternatives --set java /usr/lib/jvm/jdk-8-oracle-x64/jre/bin/java
 
-chsh -s /bin/zsh user
-
